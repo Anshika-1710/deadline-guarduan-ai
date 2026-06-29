@@ -1,0 +1,6 @@
+{
+  "name": "GuardianAI",
+  "description": "AI-powered task guardian that predicts deadline risks, plans daily schedules, and provides personalized productivity coaching to prevent last-minute rushes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
